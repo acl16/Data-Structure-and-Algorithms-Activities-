@@ -1,8 +1,6 @@
-# Data-Structure-and-Algorithms-Activities-
+# FOLDER MANAGEMENT SYSTEM
 
-FOLDER MANAGEMENT SYSTEM
-
- Introduction
+ # Introduction
 
 The Folder Management System is a simple Java console application that allows users to create and manage a folder structure. The system simulates a file system where users can add subfolders, view the entire folder structure, and interact with it in a hierarchical format. The program uses a tree-like structure to represent folders and their subfolders, offering basic operations to manage them.
 
